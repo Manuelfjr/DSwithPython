@@ -1,6 +1,6 @@
 # Bibliotecas essênciais
 
-<img src="/home/manuel/Documents/TAIL/processo2fase_anexo/img/memepss2.png" alt="memepss2" width="280"/>
+<img src="https://i.redd.it/ugexjlyu2oj11.jpg" alt="memepss2" width="280"/>
 
 As seguintes bibliotecas serão necessárias para essa fase do processo seletivo: 
 
