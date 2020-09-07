@@ -2,8 +2,7 @@
 
 <img src="https://i.redd.it/ugexjlyu2oj11.jpg" alt="memepss2" width="280"/>
 
-As seguintes bibliotecas serão necessárias para essa fase do processo seletivo: 
-
+Libs massa para a ciência de dados
 * [Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 
 O *pandas* é uma biblioteca essencial para quem trabalha com análise de dados e estrutura de dados, possuindo várias ferramentas de alta performace. Não apenas isso, a biblioteca apresenta métodos básicos para **leitura**, **manipulação** e **visualização de dados**.
