@@ -20,6 +20,10 @@ A biblioteca *matplotlib* é composta por uma enorme quantidade de funções, se
 
 A biblioteca *seaborn* atua tendo como base a biblioteca *matplotlib*, possuindo consequentemente uma grande variabilidade de gráficos possiveis de ser gerados. A biblioteca em sí traz gráficos com apelos gráficos mais agradaveis para o usuários
 
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+
+A biblioteca possui ferramentas eficientes e simples para predição e analises de dados, modulos implementados de forma intuitiva para facilitar a acessibilidade a todos podendo ser usados em vários conteúdos. Ela inclui vários algoritmos de classificação, regressão e agrupamento, entre outros tipos de algoritmos para Aprendizado de máquina implementados.
+
 * [Python para Estatísticos](https://tmfilho.github.io/pyestbook/intro.html)
 
 Este material foi escrito pelo professor do departamento de Estatística da Universidade Federal da Paraíba (UFPB), nele possui formas de uso dessas bibliotecas, computação matemática, introdução a linguagem python, algumas ferramentas mais usuais para tratamento e visualização de dados em si.
