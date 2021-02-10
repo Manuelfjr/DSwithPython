@@ -1,3 +1,6 @@
+# Python para iniciantes
+* [Beginners](https://colab.research.google.com/github/Manuelfjr/DSwithPython/blob/master/BeginnerPython/beginners.ipynb)
+
 # Bibliotecas essênciais
 
 <img src="https://i.redd.it/ugexjlyu2oj11.jpg" alt="memepss2" width="280"/>
